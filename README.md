@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/GeancarlosDEV/Desafios-do-Bootcamps-JavaScript-Game-Developer.git">
+  <a href="https://github.com/GeancarlosDEV/Exercicios_Dio_Inovation.git">
 
   </a>
   <br />
-  Desafios do Bootcamps JavaScript Game Developer
+  Desafios do Bootcamps 
 </p>
 
 <hr />
 
-- Desafios do Bootcamps JavaScript Game Developer [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One"): [Desafios do Bootcamps JavaScript Game Developer](https://web.digitalinnovation.one/track/javascript-game-developer?tab=path "Desafios do Bootcamps JavaScript Game Developer").
+- Desafios dos Bootcamps [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One")
