@@ -1,6 +1,6 @@
 <h1 align="center"> Desafios dos Bootcamps </h1>
 
-* [#Desafios C#](./Desafios%20C%23/)
+* [Desafios C#](./Desafios%20C%23/)
 * [Desafios iniciantes em Kotlin](./Desafios%20iniciantes%20em%20Kotlin/)
 * [Fundamentos Aritméticos em JavaScript](./Fundamentos%20aritmeticos%20em%20JavaScript/)
 * [Introdução a Busca e Substituição em JavaScript](./Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20JavaScript/)
